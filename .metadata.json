@@ -1,0 +1,22 @@
+[
+  {
+    "package": "BIGL",
+    "oncran": true
+  },
+  {
+    "package": "clinDataReview",
+    "oncran": true
+  },
+  {
+    "package": "clinUtils",
+    "oncran": true
+  },
+  {
+    "package": "inTextSummaryTable",
+    "oncran": true
+  },
+  {
+    "package": "patientProfilesVis",
+    "oncran": true
+  }
+]

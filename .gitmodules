@@ -3,3 +3,32 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BIGL"]
+	path = BIGL
+	url = https://github.com/openanalytics/bigl
+	shallow = true
+	registered = true
+[submodule "clinDataReview"]
+	path = clinDataReview
+	url = https://github.com/openanalytics/clindatareview
+	shallow = true
+	subdir = clinDataReview
+	registered = true
+[submodule "clinUtils"]
+	path = clinUtils
+	url = https://github.com/openanalytics/clinutils
+	shallow = true
+	subdir = clinUtils
+	registered = true
+[submodule "inTextSummaryTable"]
+	path = inTextSummaryTable
+	url = https://github.com/openanalytics/intextsummarytable
+	shallow = true
+	subdir = inTextSummaryTable
+	registered = true
+[submodule "patientProfilesVis"]
+	path = patientProfilesVis
+	url = https://github.com/openanalytics/patientprofilesvis
+	shallow = true
+	subdir = patientProfilesVis
+	registered = true
