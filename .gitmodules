@@ -20,12 +20,6 @@
 	shallow = true
 	subdir = clinUtils
 	registered = true
-[submodule "inTextSummaryTable"]
-	path = inTextSummaryTable
-	url = https://github.com/openanalytics/intextsummarytable
-	shallow = true
-	subdir = inTextSummaryTable
-	registered = true
 [submodule "patientProfilesVis"]
 	path = patientProfilesVis
 	url = https://github.com/openanalytics/patientprofilesvis
