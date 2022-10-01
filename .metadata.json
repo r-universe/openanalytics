@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "inTextSummaryTable",
+    "oncran": true
+  },
+  {
     "package": "patientProfilesVis",
     "oncran": true
   }
