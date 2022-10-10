@@ -8,12 +8,6 @@
 	url = https://github.com/openanalytics/bigl
 	shallow = true
 	registered = true
-[submodule "clinDataReview"]
-	path = clinDataReview
-	url = https://github.com/openanalytics/clindatareview
-	shallow = true
-	subdir = clinDataReview
-	registered = true
 [submodule "clinUtils"]
 	path = clinUtils
 	url = https://github.com/openanalytics/clinutils
