@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "patientProfilesVis",
+    "package": "clinDataReview",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "clinDataReview",
+    "package": "inTextSummaryTable",
     "oncran": true
   },
   {
-    "package": "inTextSummaryTable",
+    "package": "patientProfilesVis",
     "oncran": true
   }
 ]
