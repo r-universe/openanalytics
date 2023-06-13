@@ -32,3 +32,9 @@
 	shallow = true
 	subdir = patientProfilesVis
 	registered = true
+[submodule "tinytest2JUnit"]
+	path = tinytest2JUnit
+	url = https://github.com/openanalytics/tinytest2junit
+	shallow = true
+	subdir = tinytest2JUnit
+	registered = true
