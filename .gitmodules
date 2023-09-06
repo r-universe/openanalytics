@@ -13,6 +13,10 @@
 	path = clinUtils
 	url = https://github.com/openanalytics/clinutils
 	subdir = clinUtils
+[submodule "editbl"]
+	path = editbl
+	url = https://github.com/openanalytics/editbl
+	subdir = editbl
 [submodule "inTextSummaryTable"]
 	path = inTextSummaryTable
 	url = https://github.com/openanalytics/intextsummarytable
