@@ -13,6 +13,9 @@
 	path = clinUtils
 	url = https://github.com/openanalytics/clinutils
 	subdir = clinUtils
+[submodule "cvxoptdes"]
+	path = cvxoptdes
+	url = https://github.com/openanalytics/cvxoptdes
 [submodule "editbl"]
 	path = editbl
 	url = https://github.com/openanalytics/editbl
